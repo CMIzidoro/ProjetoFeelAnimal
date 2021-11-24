@@ -1,2 +1,8 @@
-# ProjetoFeelAnimal
-Projeto  FeelAnimal na aula de Lab Engenharia de Software
+# Projeto LOJA DE JOGOS
+
+FELIPPE PEDRO TEIXEIRA SILVA
+CASSIO MARTINEZ
+Javã Gabriel Rigamonti
+
+
+
