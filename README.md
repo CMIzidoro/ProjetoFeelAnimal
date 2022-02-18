@@ -1,8 +1,1 @@
-# Projeto LOJA DE JOGOS
-
-FELIPPE PEDRO TEIXEIRA SILVA
-CASSIO MARTINEZ
-Javã Gabriel Rigamonti
-
-
 
